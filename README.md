@@ -1,5 +1,7 @@
 # ha-mcp 速查表 | ha-mcp Cheatsheet | Guía rápida de ha-mcp
 
+> 📚 **Colección / Coleção**: esta hoja forma parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 hojas de referencia en un solo repositorio. / Esta folha faz parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 folhas de referência em um só repositório. ⭐
+
 **官方内置版只能替你开灯，这张能替你把「开灯的自动化」写出来——但它要的是管理员令牌，先看安全卡，再决定交不交**
 
 > 一页看懂 homeassistant-ai/ha-mcp：Home Assistant 的一个 MCP 服务，把 Claude、ChatGPT 等 AI 助手接进你的智能家居。它给 AI 的是 87 个工具：不只查状态、开灯，还能创建与修改自动化、搭仪表盘卡片、装 HACS 集成、查错误日志——动的是配置层。它和 Home Assistant 官方内置的 MCP 不是一回事，区别就在下面第二张卡里。
